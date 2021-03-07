@@ -1,0 +1,21 @@
+1) Fix add new trips to your list
+
+2) Add models of a room
+    a) Gang members :
+        - name of member
+        - Room id
+        - User of room
+    b) Transactions :
+        - place
+        - data field
+        - gang member
+        - amount
+        - user who created it
+
+3) Use API end-points in Rooms
+4) Complete TransactionAPIView
+5) In AddPerson React Component, you need to add GangMemberServices and test it first before moving on to 
+    AddPaymentInfo
+6) Add NavLinks to trip names in ListTrips Component
+7) Add callBacks of Transactions Component to update it.
+8) Fetch personList to send it to sub-components of Transactions component
